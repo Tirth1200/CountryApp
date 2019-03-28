@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">Country_App</string>
     <string name="action_settings">Settings</string>
+
+  <string-array name="CapitalArray">
+
+    <item>India</item>
+
+    <item>Netherlands</item>
+
+    <item>Bangladesh</item>
+
+    <item>Canada</item>
+
+    <item>Nepal</item>
+
+    <item>USA</item>
+
+  </string-array>
 </resources>
